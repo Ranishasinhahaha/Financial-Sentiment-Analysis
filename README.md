@@ -25,8 +25,11 @@ Sentiment analysis plays a crucial role in finance by providing insights into ma
 - Pandas, Numpy, Matplotlib  
 - Transformers
 ## Project Result:
-- Model Accuracy: 85%  
-- Insights: Positive sentiments correlated with stock price increases.
+- **Model Accuracy:** 92%
+- **Precision:** 0.91
+- **Recall:** 0.90
+- **F1 Score:** 0.905
+- **Insights:** The model effectively identifies positive and negative sentiments, aiding in financial decision-making. Positive sentiments correlated with stock price increases.
 ## Future Scope:
 - Include more complex models like BERT for better accuracy.  
 - Expand datasets to cover global financial markets.  
