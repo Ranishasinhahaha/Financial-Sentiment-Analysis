@@ -30,8 +30,7 @@ Sentiment analysis plays a crucial role in finance by providing insights into ma
 - **Recall:** 0.90
 - **F1 Score:** 0.905
 - **Insights:** The model effectively identifies positive and negative sentiments, aiding in financial decision-making. Positive sentiments correlated with stock price increases.
-## Future Scope:
-- Include more complex models like BERT for better accuracy.  
+## Future Scope:  
 - Expand datasets to cover global financial markets.  
 - Add a real-time sentiment dashboard.
 ## Contributing  
