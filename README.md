@@ -7,7 +7,7 @@ Sentiment analysis plays a crucial role in finance by providing insights into ma
 - Dataset: [Financial Sentiments]
 - Size: X rows, Y columns  
 - Content: Columns include 'Text', 'Sentiment', etc.  
-- Source: Mention where the dataset is sourced from.
+- Source: The dataset is sourced from Kaggle.
 ## Installation  
 1. Clone the repository:  https://github.com/Ranishasinhahaha/Financial-Sentiment-Analysis.git
 2. Navigate to the project directory: cd Financial-Sentiment-Analysis 
